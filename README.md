@@ -12,7 +12,7 @@ Stripe charges standard fees for transactions:
 ## 🛠️ Step 1: Choose Your Hardware
 You will need:
 - A **Stripe M2 Reader** (purchase from the official Stripe store)
-- An **Android device** (phone or tablet). Recommended device: [Amazon Fire Tablet](https://www.amazon.com/dp/B0CQS3VN1T?ref=fed_asin_title&th=1)
+- An **Android device** (phone or tablet). Recommended device: [15 inch wall mount Android Tablet](https://www.amazon.com/dp/B0CQS3VN1T?ref=fed_asin_title&th=1)
 
 ## 📲 Step 2: Sign Up for Give A Little
 1. Go to [Give A Little](https://givealittle.co) and create an account.
