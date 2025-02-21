@@ -3,6 +3,7 @@ A easy and comprehensive Guide on making a masjid Donation kiosk with no monthly
 # 📖 Stripe Donation Setup Guide
 
 This guide will walk you through setting up a Stripe M2 reader with Give A Little for accepting donations at your masjid.
+
 <a href="https://www.buymeacoffee.com/hasanismail" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## 🏦 Stripe Fees
