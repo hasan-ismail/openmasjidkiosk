@@ -33,6 +33,37 @@ To prevent users from exiting the donation app, we will use a kiosk mode applica
 ## 🎉 Step 4: Test & Deploy
 1. Run test donations to ensure everything works.
 2. Once verified, set up the device at your masjid and start accepting donations.
+🔧 Troubleshooting
+
+If you run into issues, here are some common troubleshooting steps:
+
+🛑 Stripe Reader Not Connecting
+
+Ensure the Stripe M2 Reader is fully charged.
+
+Check that Bluetooth is enabled on your Android device.
+
+Restart both the Stripe M2 Reader and the Android device.
+
+Make sure the Give A Little app has the necessary permissions (Bluetooth, Location, etc.).
+
+⚠️ Payments Not Processing
+
+Verify that your Stripe account is active and properly linked.
+
+Double-check that the campaign is correctly set up in the Give A Little dashboard.
+
+Ensure that your internet connection is stable.
+
+Try reinstalling the Give A Little app if issues persist.
+
+🔒 Kiosk Mode Not Working
+
+Ensure that Fully Single App Kiosk is correctly installed and activated.
+
+Restart the Android device after enabling kiosk mode.
+
+Check if the app has the required device admin permissions.
 
 Now you're all set! 🕌✨
 
