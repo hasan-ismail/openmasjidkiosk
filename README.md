@@ -39,31 +39,31 @@ If you run into issues, here are some common troubleshooting steps:
 
 🛑 Stripe Reader Not Connecting
 
-Ensure the Stripe M2 Reader is fully charged.
+- Ensure the Stripe M2 Reader is fully charged.
 
-Check that Bluetooth is enabled on your Android device.
+- Check that Bluetooth is enabled on your Android device.
 
-Restart both the Stripe M2 Reader and the Android device.
+- Restart both the Stripe M2 Reader and the Android device.
 
-Make sure the Give A Little app has the necessary permissions (Bluetooth, Location, etc.).
+- Make sure the Give A Little app has the necessary permissions (Bluetooth, Location, etc.).
 
 ⚠️ Payments Not Processing
 
-Verify that your Stripe account is active and properly linked.
+- Verify that your Stripe account is active and properly linked.
 
-Double-check that the campaign is correctly set up in the Give A Little dashboard.
+- Double-check that the campaign is correctly set up in the Give A Little dashboard.
 
-Ensure that your internet connection is stable.
+- Ensure that your internet connection is stable.
 
-Try reinstalling the Give A Little app if issues persist.
+- Try reinstalling the Give A Little app if issues persist.
 
 🔒 Kiosk Mode Not Working
 
-Ensure that Fully Single App Kiosk is correctly installed and activated.
+- Ensure that Fully Single App Kiosk is correctly installed and activated.
 
-Restart the Android device after enabling kiosk mode.
+- Restart the Android device after enabling kiosk mode.
 
-Check if the app has the required device admin permissions.
+- Check if the app has the required device admin permissions.
 
 Now you're all set! 🕌✨
 
